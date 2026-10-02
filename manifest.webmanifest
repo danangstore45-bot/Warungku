@@ -1,0 +1,22 @@
+{
+	"id": "./",
+	"name": "Buku Warung - Catatan Usaha",
+	"short_name": "Buku Warung",
+	"description": "Catat pemasukan, pengeluaran, dan keuntungan harian usaha.",
+	"lang": "id",
+	"start_url": "./",
+	"scope": "./",
+	"display": "standalone",
+	"orientation": "any",
+	"background_color": "#f4f5f0",
+	"theme_color": "#f4f5f0",
+	"categories": ["business", "finance"],
+	"icons": [
+		{
+			"src": "./icons/icon.svg",
+			"sizes": "any",
+			"type": "image/svg+xml",
+			"purpose": "any"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+	<title>Logo Buku Warung</title>
+	<rect width="512" height="512" fill="#fff"/>
+	<path d="M29 253 74 139c8-21 21-34 44-42L322 34c18-6 34-1 44 15l69 112c11 18 10 34-3 49l-38 42-314 42-39-16c-14-6-18-13-12-25Z" fill="#eac318"/>
+	<path d="m93 130 89 142 39 17-74 24-53-31-45-22 27-105c5-19 8-23 17-25Z" fill="#f6f6f4"/>
+	<path d="m93 130 26 133 51 27-29 16-54-32-29-15 27-105c3-12 5-19 8-24Z" fill="#d0d3d6"/>
+	<path d="m93 130 18 154-53-25 27-105c3-12 5-19 8-24Z" fill="#ededeb"/>
+	<path d="M73 309c-6-21 6-39 30-50 18-28 48-38 78-25 20-22 49-21 72-2 24-12 51-6 65 12l117-33c37-10 64 5 72 36l7 72c4 32-16 48-49 53l3 43c2 28-15 47-44 49-22 2-41-9-49-28-15 10-35 10-51-1-28 26-70 24-95-5-22 10-48 4-62-13-29 11-58-2-69-29-20-1-36-12-40-32l-1-47c-19-12-29-20-24-40Z" fill="#0751aa"/>
+	<path d="M97 328c13-37 33-57 54-53 20 4 27 28 17 62l-19 70c-4 13 1 19 10 11l27-30 15 15-32 37c-23 27-51 16-44-14l23-91c6-23 2-33-5-34-10-2-22 16-32 39l-29 70-23-10 38-72Z" fill="#fff"/>
+	<text x="249" y="335" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="91" font-weight="700" letter-spacing="-5">Buku</text>
+	<text x="164" y="420" fill="#fff" font-family="Brush Script MT,Segoe Script,cursive" font-size="89" font-style="italic" font-weight="700" letter-spacing="-4">Warung</text>
+</svg>
